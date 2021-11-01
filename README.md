@@ -1,16 +1,11 @@
 <h1 >Hi 👋, I'm Vaibhav Bichave</h1>
 <h3 >A passionate data scientist and frontend developer from India</h3>
-<br>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavbichave&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbichave" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavbichave" alt="vaibhavbichave" /></a> </p>
-
-
 #### Welcome to my GitHub profile 
 
-- 👩‍💻 I’m Vaibhav, a student,Coder, Developer, who is going towards Developement 
+- 👩‍💻 I’m Vaibhav, a student, Coder, Developer, who is going towards Developement 
 
 - ✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
